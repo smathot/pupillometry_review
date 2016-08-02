@@ -23,4 +23,30 @@ correspondence:
 
 %-- include: anatomy.md --%
 
+~
+
+%-- include: responses-light.md --%
+
+~
+
+%-- include: responses-near.md --%
+
+~
+
+%-- include: responses-psychosensory.md --%
+
+~
+
+%-- include: responses-other.md --%
+
+~
+
+%-- include: function.md --%
+
+~
+
 %-- include: applications.md --%
+
+~
+
+%-- include: glossary.md --%
