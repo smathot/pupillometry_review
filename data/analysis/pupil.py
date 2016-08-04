@@ -57,6 +57,7 @@ def plot_trials(dm):
 def plot_lightresponse(dm):
 
 	plot.new(size=(8,4))
+	plt.ylim(0.3,1.1)
 	dm = dm.condition == 'lightresponse'
 	for stimcolor, _dm in ops.split(dm.stimcolor):
 		if stimcolor == 'rgb(0%,0%,100%)':
@@ -64,21 +65,41 @@ def plot_lightresponse(dm):
 		else:
 			color = red[1]
 		x = np.linspace(0, 10, 10000)
-		plt.plot(x, _dm.ptrace_stimon.mean, color=color)
+		plot.trace(_dm.ptrace_stimon, x=x, color=color)
 		x = np.linspace(10, 30, 20000)
-		plt.plot(x, _dm.ptrace_stimoff.mean, color=color)
+		plot.trace(_dm.ptrace_stimoff, x=x, color=color)
 	plt.axvline(10, color='black', linestyle=':')
 	plt.ylabel('Pupil size (norm)')
 	plt.xlabel('Time since stimulus onset (s)')
 	plot.save('lightresponse')
 
 
+def plot_nearresponse(dm):
+
+	plot.new(size=(8,4))
+	plt.ylim(0.3,1.1)
+	dm = dm.condition == 'nearresponse'
+	x = np.linspace(0, 10, 10000)
+	plot.trace(dm.ptrace_stimon, x=x)
+	x = np.linspace(10, 30, 20000)
+	plot.trace(dm.ptrace_stimoff, x=x)
+	plt.axvline(10, color='black', linestyle=':')
+	plt.ylabel('Pupil size (norm)')
+	plt.xlabel('Time since cue (s)')
+	plot.save('nearresponse')
+
+
 def plot_sound(dm):
 
+	plot.new(size=(8,4))
+	plt.ylim(0.3,1.1)
 	dm = dm.condition == 'sound'
-	print(dm)
-	x = np.linspace(0, 10, 10000)
-	plt.plot(x, dm.ptrace_stimon.mean, color=green[1])
-	x = np.linspace(10, 30, 20000)
-	plt.plot(x, dm.ptrace_stimoff.mean, color=green[1])
-	plt.show()
+	x = np.linspace(0, 1, 1000)
+	dm.ptrace_stimon.depth = 1000
+	plot.trace(dm.ptrace_stimon, x=x)
+	x = np.linspace(1, 10, 9000)
+	dm.ptrace_stimoff.depth = 9000
+	plot.trace(dm.ptrace_stimoff, x=x)
+	plt.ylabel('Pupil size (norm)')
+	plt.xlabel('Time since stimulus onset (s)')
+	plot.save('sound')
