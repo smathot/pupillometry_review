@@ -13,7 +13,10 @@ figure:
   caption: The profile of a typical pupil near response.
 --%
 
-TODO: Description
+In the example data shown in %FigNearResponse, the PNR is elicited by an auditory cue at 0 s to shift focus from far (± 2 m) to near (± 0.1 m), and a second auditory cue at 10 s to shift back from near to far. The profile of the resulting PNR looks as follows:
+
+- Far to near:
+    - 0 - 0.6 s : This is the latency period of the PNR, relative to the cue onset. This time comprises both the time it takes to process the cue and shift focus from far to near, and the latency of the PNR proper.
 
 
 ## The near triad
