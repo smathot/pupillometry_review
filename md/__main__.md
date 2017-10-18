@@ -1,23 +1,28 @@
 ---
-title: "Pupillometry"
+title: "Pupillometry: Physiology, Function, and Psychology"
 author:
   Sebastiaan Mathôt
 affiliation:
-  - Aix-Marseille University, CNRS, LPC UMR 7290, Marseille, France
+  - University of Groningen
 correspondence:
-  - Aix-Marseille University, CNRS
-  - Laboratoire de Psychologie Cognitive, UMR 7290
-  - 3 Place Victor Hugo
-  - Centre St. Charles, Bâtiment 9, Case D
-  - 13331 Marseille
-  - France
+  - University of Groningen
+  - Department of Experimental Psychology
+  - Grote Kruisstraat 2/1
+  - 9712TS Groningen
+  - The Netherlands
 ---
+
 
 # Abstract
 
+
 %-- include: "md/abstract.md" --%
 
-*Keywords: pupillometry, pupillary light response*
+*Keywords: pupillometry, pupil light response, pupil near response, psychosensory pupil response, orienting response, eye movements*
+
+~
+
+%-- include: introduction.md --%
 
 ~
 
@@ -37,16 +42,6 @@ correspondence:
 
 ~
 
-%-- include: responses-other.md --%
+%-- include: discussion.md --%
 
 ~
-
-%-- include: function.md --%
-
-~
-
-%-- include: applications.md --%
-
-~
-
-%-- include: glossary.md --%
