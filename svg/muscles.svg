@@ -9,9 +9,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="75.066994mm"
+   width="75.569115mm"
    height="43.354828mm"
-   viewBox="0 0 265.98542 153.61947"
+   viewBox="0 0 267.76459 153.61947"
    id="svg2"
    version="1.1"
    inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
@@ -454,9 +454,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.2269321"
-     inkscape:cx="57.815548"
-     inkscape:cy="234.53428"
+     inkscape:zoom="2.4538642"
+     inkscape:cx="129.2072"
+     inkscape:cy="38.993383"
      inkscape:document-units="px"
      inkscape:current-layer="g4286"
      showgrid="true"
@@ -486,7 +486,7 @@
        spacingx="8.0000001"
        spacingy="8.0000002"
        empspacing="4"
-       originx="-766.00001"
+       originx="-628.23546"
        originy="-1726" />
   </sodipodi:namedview>
   <metadata
@@ -505,7 +505,7 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-383,-35.742732)">
+     transform="translate(-245.23542,-35.742732)">
     <g
        id="g4286"
        transform="translate(37.868819,75.790408)">
@@ -594,7 +594,7 @@
       </g>
       <g
          id="g4937"
-         transform="translate(-8.0145577,-0.99996038)">
+         transform="translate(-281.76456,-0.99996038)">
         <circle
            r="64"
            cy="48.571793"
@@ -708,18 +708,18 @@
            id="tspan4901"
            x="345.29959"
            y="-27.014023"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:1.25;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, '">a) Dilated pupil</tspan></text>
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:1.25;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, '">b) Dilated pupil</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         x="481.04849"
+         x="207.29849"
          y="-28.013985"
          id="text4899-5"><tspan
            sodipodi:role="line"
            id="tspan4901-5"
-           x="481.04849"
+           x="207.29849"
            y="-28.013985"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:1.25;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, '">b) Constricted pupil</tspan></text>
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:1.25;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, '">a) Constricted pupil</tspan></text>
       <g
          id="g4921-2"
          transform="translate(1.4666629,0.00310963)">
@@ -732,7 +732,7 @@
       </g>
       <g
          id="g4921-2-5"
-         transform="translate(137.45208,-0.99685126)">
+         transform="translate(-136.29792,-0.99685126)">
         <circle
            r="64"
            cy="48.568684"
@@ -755,14 +755,14 @@
       <text
          xml:space="preserve"
          style="font-style:normal;font-weight:normal;font-size:37.49999619px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#c5e1a5;fill-opacity:1;stroke:none;stroke-width:0.93749994"
-         x="390.41904"
-         y="404.5679"
+         x="166.17574"
+         y="247.54941"
          id="text1098-9"
          transform="rotate(-35)"><tspan
            sodipodi:role="line"
            id="tspan1096-6"
-           x="390.41904"
-           y="404.5679"
+           x="166.17574"
+           y="247.54941"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.49999905px;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';fill:#c5e1a5;stroke-width:0.93749994">Constrictor</tspan></text>
       <path
          style="fill:#cddc39;stroke:#f9ce1d;stroke-width:1.875;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Mend)"
@@ -771,7 +771,7 @@
          inkscape:connector-curvature="0" />
       <path
          style="fill:#dcedc8;stroke:#c5e1a5;stroke-width:1.875;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Mend)"
-         d="m 567.28635,82.805732 -2.29474,-6.108944"
+         d="m 293.53635,82.805732 -2.29474,-6.108944"
          id="path1122"
          inkscape:connector-curvature="0"
          sodipodi:nodetypes="cc" />

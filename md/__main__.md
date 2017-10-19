@@ -1,5 +1,5 @@
 ---
-title: "Pupillometry: Physiology, Function, and Psychology"
+title: "Pupillometry: Psychology, Physiology, and Function"
 author:
   Sebastiaan Mathôt
 affiliation:
