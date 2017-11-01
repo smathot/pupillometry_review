@@ -21,15 +21,7 @@ Pupil size is controlled by two pathways that, although interconnected, are ofte
 
 ### The constriction pathway
 
-Pupil constriction is controlled by the *iris sphincter muscle*. The iris sphincter muscle encircles the pupil like a cord that reduces the size of the pupil when it contracts (%FigMuscles::a). The iris sphincter is innervated by the parasympathetic nervous system, the part of the autonomic nervous system that is involved in homeostasis (i.e. keeping the body in stable condition); the link between pupil constriction and the parasympathetic nervous explains why pupils are relatively small in rest, when the parasympathetic nervous system system is active. The constriction pathway is a subcortical pathway that connects the retina to the iris sphincter muscle (%FigPathways::a).
-
-- As light falls on the retina, nerve impulses are sent along the optic nerve to the optic chiasma.
-- The optic chiasma combines input from the retina in both eyes, re-organizes it based on visual field, and sends it to the pretectal nucleus (PN); that is, information from the left visual field goes to the PN in the right hemisphere, and the right visual field goes to the left PN.
-- From the PN, information is sent to the Edinger-Westphal nucleus (EWN). Each EWN receives input from the left and right PN, thus combining information from the left and right visual fields; that is, both the left and right EWN receive input from both eyes and both visual fields.
-- From the EWN, information is sent via the Oculomotor Nerve (III) to the ciliary ganglion (CG), which is located just behind the eye.
-- From the CG, information is sent via the short ciliary nerves to the iris sphincter muscle.
-
-The constriction pathway as described here corresponds to those areas that are commonly considered to be crucial for pupil constriction, and is essentially that of the pupil light response (PLR). Notably absent is the lateral geniculate nucleus (LGN) of the thalamus, which, in many unreferenced descriptions that can be found online, sits between the retina and the EWN. However, more authoritative reviews [e.g. @Kardon2005] assume that the retina-geniculate pathway is only involved vision, and not in pupil responses.
+Pupil constriction is controlled by the *iris sphincter muscle*. The iris sphincter muscle encircles the pupil like a cord that reduces the size of the pupil when it contracts (%FigMuscles::a). The iris sphincter is innervated by the parasympathetic nervous system, the part of the autonomic nervous system that is involved in homeostasis (i.e. keeping the body in stable condition); the link between pupil constriction and the parasympathetic nervous explains why pupils are relatively small in rest. The constriction pathway is a subcortical pathway that connects the retina to the iris sphincter muscle (%FigPathways::a).
 
 
 %--
@@ -40,20 +32,30 @@ figure:
 --%
 
 
+The constriction pathway as described here corresponds to those areas that are commonly considered to be crucial for pupil constriction, and is essentially that of the pupil light response (PLR). Notably absent is the lateral geniculate nucleus (LGN) of the thalamus, which, in many unreferenced descriptions that can be found online, sits between the retina and the EWN. However, more authoritative reviews [e.g. @Kardon2005] assume that the retina-geniculate pathway is only involved vision, and not in pupil responses.
+
+
+- As light falls on the retina, nerve impulses are sent along the optic nerve to the optic chiasma.
+- The optic chiasma combines input from the retina in both eyes, re-organizes it based on visual field, and sends it to the pretectal nucleus (PN); that is, information from the left visual field goes to the PN in the right hemisphere, and the right visual field goes to the left PN.
+- From the PN, information is sent to the Edinger-Westphal nucleus (EWN). Each EWN receives input from the left and right PN, thus combining information from the left and right visual fields; that is, both the left and right EWN receive input from both eyes and both visual fields.
+- From the EWN, information is sent via the Oculomotor Nerve (III) to the ciliary ganglion (CG), which is located just behind the eye.
+- From the CG, information is sent via the short ciliary nerves to the iris sphincter muscle.
+
+
 %--
 figure:
   id: FigPathways
   source: pathways.svg
-  caption: a) The pupil constriction pathway. b) the pupil dilation pathway.
+  caption: a) The pupil constriction pathway. b) the pupil dilation pathway. [Based on  @Kardon2005;@Szabadi2012;@SamuelsSzabadi2008;@McdougalGamlin2008;@WangMunoz2015Curr]
 --%
 
 
 ### The dilation pathway
 
-Pupil dilation is controlled by the *iris dilator muscle*. The dilator muscle consists of fibers that are oriented radially, and connect the exterior of the iris with the interior. When the dilator muscle contracts, it pulls the interior of the iris outward, thus increasing the size of the pupil (%FigMuscles::b). The iris dilator muscle is controlled by the sympathetic nervous system, the part of the autonomic nervous system that is involved in arousal, wakefulness, and the fight-or-flight response; the link between pupil dilation and the sympathetic nervous system explains why pupils are relatively large when someone is aroused, which is when the sympathetic nervous system is active. The dilation pathway is a subcortical pathway that starts at the hypothalamus and the locus coeruleus (LC) and connects to the iris dilator muscle (%FigPathways::b).
+Pupil dilation is controlled by the *iris dilator muscle*. The dilator muscle consists of fibers that are oriented radially, and connect the exterior of the iris with the interior. When the dilator muscle contracts, it pulls the interior of the iris outward, thus increasing the size of the pupil (%FigMuscles::b). The iris dilator muscle is controlled by the sympathetic nervous system, the part of the autonomic nervous system that is involved in arousal, wakefulness, and the fight-or-flight response; the link between pupil dilation and the sympathetic nervous system explains why pupils are relatively large when someone is aroused. The dilation pathway is a subcortical pathway that starts at the hypothalamus and the locus coeruleus (LC) and connects to the iris dilator muscle (%FigPathways::b).
 
-- The LC is especially active when an organism is aroused, awake, and alert; that is, the LC reflects arousal. The LC projects to the intermedio-lateral column (IML) of the spinal cord.
-- The hypothalamus is a complicated structure with many connections and subnuclei; however, in the context of pupil dilation its role is similar to that of the LC, projecting to the IML. The hypothalamus and LC also have reciprocal excitatory connections.
+- The LC is especially active when an organism is aroused, awake, and alert; that is, the LC reflects arousal. (But see the section on the Adaptive-gain theory for a more nuanced discussion of LC function.) The LC projects to the intermedio-lateral column (IML) of the spinal cord.
+- The hypothalamus is a complicated structure with many connections and subnuclei; however, in the context of pupil dilation its role is similar to that of the LC: activity in the hypothalamus reflects arousal and wakefulness, and it projects to the IML. The hypothalamus and LC also have reciprocal excitatory connections.
 - The IML projects to the superior cervical ganglion (SCG), located just outside the spinal cord.
 - The SCG projects, via a complicated network of nerves, to the iris dilator muscle.
 
