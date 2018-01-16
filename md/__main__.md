@@ -10,6 +10,8 @@ correspondence:
   - Grote Kruisstraat 2/1
   - 9712TS Groningen
   - The Netherlands
+  - http://www.cogsci.nl/smathot
+  - s.mathot@cogsci.nl
 ---
 
 
@@ -45,3 +47,9 @@ correspondence:
 %-- include: discussion.md --%
 
 ~
+
+# Materials
+
+Manuscript materials are available from:
+
+- <https://github.com/smathot/pupillometry_review>
