@@ -44,6 +44,10 @@ correspondence:
 
 ~
 
+%-- include: oscillations.md --%
+
+~
+
 %-- include: discussion.md --%
 
 ~
