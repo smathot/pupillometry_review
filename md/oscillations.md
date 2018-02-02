@@ -1,4 +1,4 @@
-# ++Spontaneous fluctuations in pupil size++
+# Spontaneous fluctuations in pupil size
 
 Even when there is no direct external stimulation, the size of the pupil tends to spontaneously change. Such spontaneous pupil-size fluctuations are sometimes called *hippus* or *pupillary unrest*. *Hippus* is generally used to describe periodic fluctuations, whereas *pupillary unrest* is a more general term that refers to any kind of spontaneous fluctuation.
 

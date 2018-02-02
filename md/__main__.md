@@ -3,15 +3,12 @@ title: "Pupillometry: Psychology, Physiology, and Function"
 author:
   Sebastiaan Mathôt
 affiliation:
-  - University of Groningen
+  - University of Groningen, Department of Psychology
 correspondence:
-  - University of Groningen
-  - Department of Experimental Psychology
-  - Grote Kruisstraat 2/1
-  - 9712TS Groningen
-  - The Netherlands
-  - http://www.cogsci.nl/smathot
   - s.mathot@cogsci.nl
+  - http://www.cogsci.nl/smathot
+  -
+  - <br />This article was accepted for publication in *Journal of Cognition* on Feb 1, 2018. This version may not correspond exactly to the final published version.
 ---
 
 

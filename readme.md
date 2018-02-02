@@ -2,4 +2,4 @@
 
 Materials for:
 
-- Mathôt, S. (in prep.) *Pupillometry: Psychology, Physiology, and Function*
+- Mathôt, S. (in press) Pupillometry: Psychology, physiology, and function, *Journal of Cognition*
